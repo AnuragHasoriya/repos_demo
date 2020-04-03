@@ -1,0 +1,15 @@
+.repo-data {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.search-user {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.repo-empty{
+    margin-top: 40px;
+}
